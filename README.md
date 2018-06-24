@@ -6,7 +6,10 @@
 
 Требования: 
 должна быть установлена: Java SE Runtime Environment 8
+
 http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+
 
 
 *Инструкция по установке*
@@ -27,6 +30,8 @@ C:\Users\User\AppData\Roaming\ViberPC
 
 4) 
 Поместить из архива файл "run viberfix" в автозагрузки. Т.о. вайбер будет (и должен) запускаться из автозагрузки. 
+
+
 
 Внимание!!!
 
