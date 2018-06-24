@@ -14,14 +14,16 @@
 
 *C:\Users\User\AppData\Roaming\ViberPC*
 
-2) 
+2) Устанавливаем [Viber for Windows ver 6.0.1](https://download.cdn.viber.com/desktop/windowsxp/ViberSetup.exe)
+
+3) 
 После первого запуска Viber в меню "Инструменты > Параметры > Основное" отключаем "Запускать Viber при загрузке системы".
 
-3)
+4)
 Распаковать [архив](https://github.com/asavchuk/ViberFix/raw/master/viberfix.zip) на диск "С" в папку *viberfix*, т.о. программа будет расположена по пути  
 *с:\viberfix*
 
-4) 
+5) 
 Поместить из архива файл "*run viberfix*" в автозагрузки. Т.о. вайбер будет (и должен) запускаться из автозагрузки. 
 
 
