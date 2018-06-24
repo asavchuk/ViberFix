@@ -1,9 +1,7 @@
 Программа предназначена для предотвращения обновлений Viber на Windows. Полезно когда вайбер после своих обновлений больше не работает.
 
 **Требования:**
-должна быть установлена: *Java SE Runtime Environment 8*
-
-[скачать Java SE Runtime Environment 8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)
+должна быть установлена: *[Java SE Runtime Environment 8](http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html)*
 
 
 
