@@ -1,6 +1,7 @@
 "# ViberFix" 
 
 Программа предназначена для предотвращения обновлений Viber на Windows.
+
 Полезно когда вайбер после своих обновлений больше не работает.
 
 Требования: 
@@ -14,6 +15,7 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 Если вайбер уже устанавливался, то нужно сначала деинсталировать Viber, а затем почистить все остатки по путям 
 (где User - ваш пользовательский каталог) 
 C:\Users\User\AppData\Local\Viber
+
 C:\Users\User\AppData\Roaming\ViberPC
 
 2) 
