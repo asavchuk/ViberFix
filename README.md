@@ -13,16 +13,16 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 1) 
 Если вайбер уже устанавливался, то нужно сначала деинсталировать Viber, а затем почистить все остатки по путям (где User - ваш пользовательский каталог) 
 
-*C:\Users\User\AppData\Local\Viber
+*C:\Users\User\AppData\Local\Viber*
 
-*C:\Users\User\AppData\Roaming\ViberPC
+*C:\Users\User\AppData\Roaming\ViberPC*
 
 2) 
 После первого запуска Viber в меню "Инструменты > Параметры > Основное" отключаем "Запускать Viber при загрузке системы".
 
 3)
 Распаковать [архив](https://github.com/asavchuk/ViberFix/raw/master/viberfix.zip) на диск "С" в папку *viberfix*, т.о. программа будет расположена по пути  
-*с:\viberfix
+*с:\viberfix*
 
 4) 
 Поместить из архива файл "*run viberfix*" в автозагрузки. Т.о. вайбер будет (и должен) запускаться из автозагрузки. 
