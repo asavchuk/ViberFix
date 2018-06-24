@@ -21,8 +21,8 @@ http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.h
 После первого запуска Viber в меню "Инструменты > Параметры > Основное" отключаем "Запускать Viber при загрузке системы".
 
 3)
-Распаковать [архив](https://github.com/asavchuk/ViberFix/raw/master/viberfix.zip) на диск "С" в корень, т.о. программа будет расположена по пути  
-*с:\ViberFix
+Распаковать [архив](https://github.com/asavchuk/ViberFix/raw/master/viberfix.zip) на диск "С" в папку *viberfix*, т.о. программа будет расположена по пути  
+*с:\viberfix
 
 4) 
 Поместить из архива файл "*run viberfix*" в автозагрузки. Т.о. вайбер будет (и должен) запускаться из автозагрузки. 
