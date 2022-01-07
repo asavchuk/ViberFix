@@ -7,9 +7,9 @@
 
 1) Если вайбер уже устанавливался, то нужно сначала деинсталировать Viber, а затем почистить все остатки по следующим путям:
 
-    *C:\Users\%username%\AppData\Local\Viber*
+    *с:\Users\%username%\AppData\Local\Viber*
 
-    *C:\Users\%username%\AppData\Roaming\ViberPC*
+    *с:\Users\%username%\AppData\Roaming\ViberPC*
 
 2) Устанавливаем [Viber for Windows ver 6.0.1](https://download.cdn.viber.com/desktop/windowsxp/ViberSetup.exe)
 
